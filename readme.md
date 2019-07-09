@@ -9,7 +9,7 @@
 
 <h2>Regarding the content</h2>
 <p>The bookstore was designed with a front-end first mindset. That means the visual part was designed first, in order to give more authenticity to the project. Thus, all titles are real. The selection as well as the description text have been taken 'as is' from pastemagazine's list of The 50 Best Horror Novels of All Time. Feel free to visit the collection and read the articles if you are interested in horror literature. You can find the original complete list <a href="https://www.pastemagazine.com/articles/2018/08/the-best-horror-novels-of-all-time.html">here</a>.
-The authors' biographies have been taken from wikipedia and their photos from random sites on the web. I do not own any rights of this content, I used it only as a sample. All prices are imaginary, just to fill in the necessary product info for the e-commerce functionality.</p>
+The authors' biographies have been taken from wikipedia and their photos from random sites on the web. I do not own any rights of this content, I used it only as a sample. All prices are imaginary, just to fill in the necessary product info for the e-commerce functionality. For all this you have to be patient and wait for the live version, which is coming very soon!</p>
 
 <p>Feel free to comment if you think something should have been done otherwise and visit the site as soon as is comes online!</p>
           
