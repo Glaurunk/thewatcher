@@ -7,7 +7,7 @@
         <div class="card-body">
           <h2 class="mb-3">Welcome to the Watcher</h2>
 
-          <p class="fs-12">"The Watcher" is the website of a ficticious bookstore, selling selected pieces of horror literature, ranging from the gothic era to the modern age! An we are using Laravel to do all this! Find all the details at the <a href="/tech-stuff" class="text-bordeaux">Tech Stuff</a> page.</p>
+          <p class="fs-12">"The Watcher" is the website of a fictitious bookstore, selling selected pieces of horror literature, ranging from the gothic era to the modern age! An we are using Laravel to do all this! Find all the details at the <a href="/tech-stuff" class="text-bordeaux">Tech Stuff</a> page.</p>
           <h2 class="mb-3">Regarding the content</h2>
           <p class="fs-12">All titles are real. The selection as well as the description text have been taken 'as is' from pastemagazine's list of The 50 Best Horror Novels of All Time. Feel free to visit the collection and read the articles if you are interested in horror literature. You can find the original complete list <a href="https://www.pastemagazine.com/articles/2018/08/the-best-horror-novels-of-all-time.html" class="text-bordeaux">here</a>.
           The authors' biographies have been taken from wikipedia and their photos from random sites on the web. I do not own any rights of this content, I used it only as a sample. All prices are imaginary, just to fill in the necessary product info for the e-commerce functionality.</p>
