@@ -1,72 +1,15 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<h1>PREVIEW</h1>
+<h2>Welcome to the Watcher</h2>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<p>"The Watcher" is the website of a fictitious bookstore, selling selected pieces of horror literature, ranging from the gothic era to the modern age! The project is still ongoing, so please bear with me, for a little longer!</p>
 
-## About Laravel
+<h2>On the back end</h2>
+<p>The website has been built using Laravel 5.8. In addition, I have been using the <a href="https://laravelvoyager.com" class="text-bordeaux">Voyager</a> multipurpose admin panel for backend functionality just because it seemed awesome and I wanted to try iy out! (It really IS awseome by the way!) This means, that besides some basic stuff, many back end features have been implemented directly from Voyager rather than from inside Laravel. For example, the database tables, have been initially created with php artisan, but afterwards, all changes have been made exclusively with Voyager, though some table relations have been implemented in the Laravel models as well.</p>
+<p>The project is not yet completed. The main missing feature is the order model. At the moment order data do not persist on the database, mainly because I wanted to exclude it from the demo in order to avoid potentional spam or abuse. But without the model the site misses important functionality, such as order history and mailables. So the next step is to take care of that and implement also some extra features, such as order printout with the DOMPDF extension and perhaps a payment gateway with Stripe.</p> 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h2>Regarding the content</h2>
+<p>The bookstore was designed with a front-end first mindset. That means the visual part was designed first, in order to give more authenticity to the project. Thus, all titles are real. The selection as well as the description text have been taken 'as is' from pastemagazine's list of The 50 Best Horror Novels of All Time. Feel free to visit the collection and read the articles if you are interested in horror literature. You can find the original complete list <a href="https://www.pastemagazine.com/articles/2018/08/the-best-horror-novels-of-all-time.html">here</a>.
+The authors' biographies have been taken from wikipedia and their photos from random sites on the web. I do not own any rights of this content, I used it only as a sample. All prices are imaginary, just to fill in the necessary product info for the e-commerce functionality. For all this you have to be patient and wait for the live version, which is coming very soon!</p>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p>Feel free to comment if you think something should have been done otherwise and visit the site as soon as is comes online!</p>
+          
